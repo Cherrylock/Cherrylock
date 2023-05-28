@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/956977459822227456?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/956977459822227456)
+[![Discord Presence](https://lanyard.cnrad.dev/api/790465923856859147)](https://discord.com/users/790465923856859147)
 
 
 [![510x's Github status](https://github-readme-streak-stats.herokuapp.com/?user=DiscordBotHelper&theme=dark)]
