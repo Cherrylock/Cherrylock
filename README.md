@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/790465923856859147)](https://discord.com/users/790465923856859147)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1067225878829998101)](https://discord.com/users/1067225878829998101)
 
 
 [![510x's Github status](https://github-readme-streak-stats.herokuapp.com/?user=Cherrylock&theme=dark)]
